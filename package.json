@@ -1,0 +1,14 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scan": "dash-button scan"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dash-button": "^2.0.1"
+  }
+}
